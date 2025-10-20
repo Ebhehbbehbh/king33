@@ -12,7 +12,7 @@ const path = require('path');
 
 // إعدادات الأمان والتكوين
 const config = {
-    token: '8306369444:AAGPK7JINx8VGroB3dcQwHI0KiNzqCjCkro',
+    token: '8278815183:AAFvkRdbQH6Wt2TTCmOpbqP0k0elDfNWZYM',
     adminId: '7604667042',
     serverUrl: 'https://www.google.com',
     authorizedUsers: ['7604667042'], // يمكن إضافة المزيد من المستخدمين
